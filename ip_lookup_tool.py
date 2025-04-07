@@ -1,8 +1,3 @@
-# =======================================
-# Team Name: ByteBenders
-# Members: Ken Brazal, [Teammate 2], [Teammate 3]
-# =======================================
-
 import ipaddress
 import requests
 import logging
